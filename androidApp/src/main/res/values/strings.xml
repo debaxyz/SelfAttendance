@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SelfAttendance</string>
+    <string name="app_name">Self Attendance</string>
+    <!-- Web client ID from google-services.json (client_type 3) -->
+    <string name="default_web_client_id">140295895364-trmfii0p0mlo7kdcj7e58tqd913dv7qc.apps.googleusercontent.com</string>
+    <!-- Named Firestore database id; use "(default)" for the default database -->
+    <string name="firestore_database_id">(default)</string>
 </resources>
